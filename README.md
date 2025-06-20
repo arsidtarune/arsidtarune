@@ -10,6 +10,7 @@ I'm a passionate data enthusiast focused on data engineering and machine learnin
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/arsid-tarune-14506b2b) | [Email](arsidtarune@gmail.com)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I once turned a messy Excel workflow into a sleek Python pipeline!
+               I enjoy turning raw, messy data into clean, actionable insights
 
 
 ![Arsid Tarune's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsidtarune&show_icons=true&theme=radical)
