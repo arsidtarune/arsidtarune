@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there 👋 I'm Arsidh Tarune
 
-<!--
-**arsidtarune/arsidtarune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate data enthusiast focused on data engineering and machine learning. Here's a little about me:
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning about Data Science and Machine Learning
+- 🚀 I’m currently working on building Data Science and Machine Learning projects
+- 🤝 I’m looking to collaborate on: Open-source data engineering and MLOps projects
+- 🧠 I’m looking for help with: Deploying ML models on cloud platforms
+- 💬 Ask me about: Data pipelines, Python, and PostgreSQL
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/arsid-tarune-14506b2b) | [Email](arsidtarune@gmail.com)
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I once turned a messy Excel workflow into a sleek Python pipeline!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Arsid Tarune's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsidtarune&show_icons=true&theme=radical)
+
