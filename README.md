@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Arsidh Tarune
+### Hi there 👋 I'm Arsid Tarune
 
 I'm a passionate data enthusiast focused on data engineering and machine learning. Here's a little about me:
 
